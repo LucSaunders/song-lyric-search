@@ -32,10 +32,8 @@ const Search = () => {
 
   return (
     <div className="card card-body mb-4 p-4">
-      <h1 className="display-4 text-center">
-        <i className="fas fa-music" /> Search For A Song
-      </h1>
-      <p className="lead text-center">Get the lyrics for any song</p>
+      <h3 className="display-4 text-center">Search for a Song</h3>
+      <p className="lead text-center">Get the lyrics to any song</p>
       <form onSubmit={findTrack}>
         <div className="form-group">
           <input
@@ -48,7 +46,7 @@ const Search = () => {
           />
         </div>
         <button className="btn btn-primary btn-lg btn-block mb-5" type="submit">
-          Get Track Lyrics
+          Get Lyrics
         </button>
       </form>
     </div>
