@@ -24,7 +24,7 @@ const Track = props => {
             to={`lyrics/track/${track.track_id}`}
             className="btn btn-light btn-block"
           >
-            <i className="fas fa-chevron-right" /> View Lyrics
+            <i className="fas fa-chevron-right text-dark"> View Lyrics</i>
           </Link>
         </div>
       </div>

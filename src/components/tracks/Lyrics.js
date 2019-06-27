@@ -43,14 +43,17 @@ const Lyrics = props => {
   } else {
     return (
       <>
-        <Link to="/" className="btn btn-dark btn-sm mb-4">
-          Go Back
+        <Link to="/" className="btn btn-primary btn-sm mb-4">
+          Back
         </Link>
         <div className="card">
-          <h5 className="card-header">
-            {track.track.track_name} by{' '}
-            <span className="text-secondary">{track.track.artist_name}</span>
-          </h5>
+          <h4 className="card-header" style={{ color: '#66afde' }}>
+            {track.track.track_name}{' '}
+            <span style={{ color: 'white' }}>
+              {' '}
+              by {track.track.artist_name}
+            </span>
+          </h4>
           <div className="card-body">
             <p className="card-text">{lyrics.lyrics.lyrics_body}</p>
           </div>

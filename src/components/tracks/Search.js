@@ -39,14 +39,14 @@ const Search = () => {
           <input
             type="text"
             className="form-control form-control-lg"
-            placeholder="Song title..."
+            placeholder="Enter song title..."
             name="userInput"
             value={userInput}
             onChange={onChange}
           />
         </div>
         <button className="btn btn-primary btn-lg btn-block mb-5" type="submit">
-          Get Lyrics
+          Find Lyrics
         </button>
       </form>
     </div>
