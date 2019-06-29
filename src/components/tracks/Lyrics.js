@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
-// import Spinner from '../layout/Spinner';
+import Spinner from '../layout/Spinner';
 import Moment from 'react-moment';
 
 const Lyrics = props => {
@@ -38,8 +38,7 @@ const Lyrics = props => {
     Object.keys(track).length === 0 ||
     Object.keys(lyrics).length === 0
   ) {
-    // return <Spinner />;
-    return <h4>Loading...</h4>;
+    return <Spinner />;
   } else {
     return (
       <>

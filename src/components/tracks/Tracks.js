@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { Context } from '../../context';
-// import Spinner from "../layout/Spinner";
+import Spinner from '../layout/Spinner';
 import Track from './Track';
 
 const Tracks = () => {
@@ -8,8 +8,7 @@ const Tracks = () => {
   const { track_list, heading } = state;
 
   if (track_list === undefined || track_list.length === 0) {
-    // return <Spinner />;
-    return <h4>Loading...</h4>;
+    return <Spinner />;
   } else {
     return (
       <>
