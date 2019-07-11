@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lucsaunders.github.io/song-lyric-search/precache-manifest.c16b3fc35749c6fb558bbced31ec5033.js"
+  "/lucsaunders.github.io/song-lyric-search/precache-manifest.ec4d38598190280e979333ab124b3fd6.js"
 );
 
 self.addEventListener('message', (event) => {
