@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/song-lyric-search/static/css/main.cfda8877.chunk.css",
-    "main.js": "/song-lyric-search/static/js/main.c88e2c22.chunk.js",
-    "main.js.map": "/song-lyric-search/static/js/main.c88e2c22.chunk.js.map",
+    "main.js": "/song-lyric-search/static/js/main.bde6e55a.chunk.js",
+    "main.js.map": "/song-lyric-search/static/js/main.bde6e55a.chunk.js.map",
     "runtime~main.js": "/song-lyric-search/static/js/runtime~main.9a603773.js",
     "runtime~main.js.map": "/song-lyric-search/static/js/runtime~main.9a603773.js.map",
     "static/js/2.2dca1825.chunk.js": "/song-lyric-search/static/js/2.2dca1825.chunk.js",
     "static/js/2.2dca1825.chunk.js.map": "/song-lyric-search/static/js/2.2dca1825.chunk.js.map",
     "index.html": "/song-lyric-search/index.html",
-    "precache-manifest.5019f0e3b501d3303c0c79bab8247cb4.js": "/song-lyric-search/precache-manifest.5019f0e3b501d3303c0c79bab8247cb4.js",
+    "precache-manifest.8ed96a91bd77dd198ff594279e460c6e.js": "/song-lyric-search/precache-manifest.8ed96a91bd77dd198ff594279e460c6e.js",
     "service-worker.js": "/song-lyric-search/service-worker.js",
     "static/css/main.cfda8877.chunk.css.map": "/song-lyric-search/static/css/main.cfda8877.chunk.css.map",
     "static/media/spinner.gif": "/song-lyric-search/static/media/spinner.b9711227.gif"
