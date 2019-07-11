@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lucsaunders.github.io/lyrica/static/css/main.cfda8877.chunk.css",
+    "main.js": "/lucsaunders.github.io/lyrica/static/js/main.fc6bc323.chunk.js",
+    "main.js.map": "/lucsaunders.github.io/lyrica/static/js/main.fc6bc323.chunk.js.map",
+    "runtime~main.js": "/lucsaunders.github.io/lyrica/static/js/runtime~main.07bddbdf.js",
+    "runtime~main.js.map": "/lucsaunders.github.io/lyrica/static/js/runtime~main.07bddbdf.js.map",
+    "static/js/2.b8cdd500.chunk.js": "/lucsaunders.github.io/lyrica/static/js/2.b8cdd500.chunk.js",
+    "static/js/2.b8cdd500.chunk.js.map": "/lucsaunders.github.io/lyrica/static/js/2.b8cdd500.chunk.js.map",
+    "index.html": "/lucsaunders.github.io/lyrica/index.html",
+    "precache-manifest.fc53dc51214c0899bf1d7ae0a125c006.js": "/lucsaunders.github.io/lyrica/precache-manifest.fc53dc51214c0899bf1d7ae0a125c006.js",
+    "service-worker.js": "/lucsaunders.github.io/lyrica/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/lucsaunders.github.io/lyrica/static/css/main.cfda8877.chunk.css.map",
+    "static/media/spinner.gif": "/lucsaunders.github.io/lyrica/static/media/spinner.b9711227.gif"
+  }
+}
