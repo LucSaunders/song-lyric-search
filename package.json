@@ -12,7 +12,7 @@
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
-  "homepage": "https:/lucsaunders.github.io/lyrica/",
+  "homepage": "https:/lucsaunders.github.io/song-lyric-search",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
